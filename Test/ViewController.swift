@@ -14,7 +14,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBOutlet weak var text: UILabel!
+    
+    var count = 0
+    
+    @IBAction func test(_ sender: UIButton) {
+        text.text = String(count)
+        count = count + 1
+    }
 }
-
