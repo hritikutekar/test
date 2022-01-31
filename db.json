@@ -3,7 +3,7 @@
     "successful": true,
     "data": [
                 {
-                    "_id" = "1",
+                    "_id": "1",
                     "title": "WHAT IS THIS? | Challenge IX 😯 Digital Art",
                     "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
                     "profileImage": "https://yt3.ggpht.com/ytc/AKedOLTKogDmKzztAXLtsULpQQmpm5OLdZCJpDShF178=s576-c-k-c0x00ffffff-no-rj",
@@ -13,7 +13,7 @@
                     "username": "illustrateria"
                 },
                 {
-                    "_id" = "2",
+                    "_id": "2",
                     "title": "WAWESOME Spiderman Art By Hritik Vitthal Uttekar an Awesome person in this world Hritik Vitthal Uttekar an Awesome person in this world",
                     "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
                     "profileImage": "https://yt3.ggpht.com/ytc/AKedOLSJQuix0x-k7Ghqt_9CCgnvWoA-HQ6QcMS4XiQ_eQ=s576-c-k-c0x00ffffff-no-rj",
@@ -23,7 +23,7 @@
                     "username": "Surfnboy Shorts"
                 },
                 {
-                    "_id" = "3",
+                    "_id": "3",
                     "title": "AWESOME Spiderman Art",
                     "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
                     "profileImage": "https://yt3.ggpht.com/ytc/AKedOLTKogDmKzztAXLtsULpQQmpm5OLdZCJpDShF178=s576-c-k-c0x00ffffff-no-rj",
