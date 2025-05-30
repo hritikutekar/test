@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "asset_id": "OP-4ufqw",
+      "asset_type": "avatar_2d",
+      "version": 1,
+      "status": "Published",
+      "asset_detail": {
+        "path": "assets/2025/04/08/cleanshot.png",
+        "file_name": "cleanshot.png",
+        "file_size": 0,
+        "file_type": "png",
+        "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "platform": "",
+        "quality": "low"
+      },
+      "is_unlocked": true,
+      "avatar": {
+        "avatar_id": "riva",
+        "name": "Riva America",
+        "avatar_image_url": "riva.png",
+        "flag": "flag_emoji"
+      },
+      "preview_animation": {
+        "path": "riva_init.riv",
+        "file_type": "riv"
+      },
+      "voice": {
+        "voice_id": "hope",
+        "gender": "female",
+        "accent": {
+          "name": "American Accent",
+          "translation_key": "american_accent"
+        },
+        "personalities": [
+          {
+            "name": "Cheerful",
+            "translation_key": "voice_tag_cheerful"
+          },
+          {
+            "name": "Sharp",
+            "translation_key": "voice_tag_sharp"
+          },
+          {
+            "name": "Fast",
+            "translation_key": "voice_tag_fast"
+          }
+        ],
+        "tts": "https://content-media.elsanow.co/tts_samples_json/hope.json",
+        "audio_url": "https://content-media.elsanow.co/tts_voice_samples/hope.mp3",
+        "image_url_square": "https://elsa-curricula-media.s3.ap-southeast-1.amazonaws.com/_extras_/explore_store/american_square.png",
+        "image_url_round": "https://elsa-curricula-media.s3.ap-southeast-1.amazonaws.com/_extras_/explore_store/american_circle.png",
+        "tier": ""
+      }
+    }
+  ]
+}
